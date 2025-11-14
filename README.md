@@ -8,10 +8,6 @@
 
 <kbd>My space on the web</kbd> showcasing modern web development with stunning dark aesthetics
 
-
-</div>
-
----
 <div align="center">
 
 # नमस्ते 🙏, I'm **Chandan Kumar Behera**
