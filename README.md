@@ -7,6 +7,7 @@
 ### ✨ Student Developer  |  Chief Problem Solver  |  Web Dev  |  SAP  |  AWS
 
 <div align="center">
+<div align="center">
 
 # नमस्ते 🙏, I'm **Chandan Kumar Behera**
 
