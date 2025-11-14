@@ -1,3 +1,18 @@
+# 🌟Chandan's Portfolio
+
+<div align="center">
+
+  <!-- Logo -->
+  <img src="logo.png" alt="Portfolio Logo" width="120" height="120">
+
+### ✨ Student Developer  |  Chief Problem Solver  |  Web Dev  |  SAP  |  AWS
+
+<kbd>My space on the web</kbd> showcasing modern web development with stunning dark aesthetics
+
+
+</div>
+
+---
 <div align="center">
 
 # नमस्ते 🙏, I'm **Chandan Kumar Behera**
