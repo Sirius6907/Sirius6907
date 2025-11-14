@@ -6,8 +6,6 @@
 
 ### ✨ Student Developer  |  Chief Problem Solver  |  Web Dev  |  SAP  |  AWS
 
-<kbd>My space on the web</kbd> showcasing modern web development with stunning dark aesthetics
-
 <div align="center">
 
 # नमस्ते 🙏, I'm **Chandan Kumar Behera**
