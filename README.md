@@ -1,49 +1,82 @@
-# Hi, Iâ€™m Chandan Kumar Behera (Sirius6907)
+# Hi, I'm Chandan Kumar Behera (Sirius6907) 👋
 
-Fullâ€‘stack developer building modern web apps and AI-powered prototypes.
-I focus on clean UX, scalable backends, and cloud-ready deployments (AWS).
-Open to internships / entry-level roles.
-
-## Core skills / stack
-- Frontend: React, Next.js, TypeScript, Tailwind CSS
-- Backend: Node.js, Express, REST APIs (learning/testing patterns)
-- Databases: MongoDB (and SQL basics)
-- Cloud/DevOps: AWS (basics), Docker (basics), Git/GitHub
-- AI/ML: Python, Jupyter, integrating AI features into web products
-
-## Highlights (projects & impact)
-- **Portfolio** â€” recruiter landing page + project showcase
-  - Repo: https://github.com/Sirius6907/Portfolio
-  - Live: https://sirius-portfolio.onrender.com/
-- **AI Video Effects Analyzer** â€” AI-assisted workflow for analyzing/managing/creating video effects (After Effects focused)
-  - Repo: https://github.com/Sirius6907/ai-video-effects-analyzer
-- **Syrex** â€” AI app/website builder (product + full-stack build)
-  - Repo: https://github.com/Sirius6907/Syrex
-- **Soniq (AI Music Generator)** â€” creative AI project (Python/Jupyter)
-  - Repo: https://github.com/Sirius6907/Soniq-AI-Music-Generator
-- **Sâ€‘LiveChat** â€” real-time chat app (full-stack)
-  - Repo: https://github.com/Sirius6907/S-LiveChat
-- **Sâ€‘Ride (Uber clone)** â€” end-to-end clone project to demonstrate full product flow
-  - Repo: https://github.com/Sirius6907/S-Ride-Uber-clone
-
-## Links
-- Portfolio: https://sirius-portfolio.onrender.com/
-- LinkedIn: <ADD-YOUR-LINKEDIN-URL-HERE>
-- Resume: <ADD-YOUR-RESUME-LINK-HERE> (PDF/Drive/Notion)
-- Email: <ADD-YOUR-CONTACT-EMAIL-HERE>
-
-## Open to roles
-Iâ€™m currently open to:
-- Fullâ€‘Stack Developer (Intern / Entryâ€‘level)
-- Frontend Developer (React/Next.js)
-- Backend Developer (Node.js)
-
-If youâ€™re hiring, the fastest way to reach me is via **LinkedIn** or **email**.
+🚀 Full-Stack Developer building modern web apps and AI-powered products.  
+I focus on clean UX, scalable backend architecture, and cloud-ready deployments using AWS.  
+Currently open to **Internships** and **Entry-Level Full-Stack roles**.
 
 ---
 
-### Optional sections you can add later
-- Certifications (AWS, cloud, web)
-- Metrics (e.g., users, performance improvements, uptime, throughput)
-- Speaking / writing (talks, workshops, blog posts)
-- Volunteering / community (open-source, mentoring, clubs)
+## 💻 Core Skills & Tech Stack
+
+**Frontend**
+- React, Next.js, TypeScript, Tailwind CSS
+
+**Backend**
+- Node.js, Express, REST APIs
+- API architecture & scalable backend patterns (learning/testing best practices)
+
+**Databases**
+- MongoDB
+- SQL (fundamentals)
+
+**Cloud / DevOps**
+- AWS (fundamentals)
+- Docker (basics)
+- Git & GitHub workflows
+
+**AI / ML**
+- Python, Jupyter
+- Integrating AI features into real-world web products
+
+---
+
+## 🌟 Featured Projects & Impact
+
+### 🔹 Portfolio — Recruiter Landing Page
+Modern personal portfolio showcasing projects and technical capabilities.  
+- Repo: https://github.com/Sirius6907/Portfolio  
+- Live: https://sirius-portfolio.onrender.com/
+
+### 🔹 AI Video Effects Analyzer
+AI-assisted workflow for analyzing and managing video effects (After Effects focused).  
+- Repo: https://github.com/Sirius6907/ai-video-effects-analyzer
+
+### 🔹 Syrex — AI App/Website Builder
+Full-stack AI product focused on automation and intelligent app generation.  
+- Repo: https://github.com/Sirius6907/Syrex
+
+### 🔹 Soniq — AI Music Generator
+Creative AI project built using Python & Jupyter notebooks.  
+- Repo: https://github.com/Sirius6907/Soniq-AI-Music-Generator
+
+### 🔹 S-LiveChat — Real-Time Chat App
+Full-stack real-time communication platform.  
+- Repo: https://github.com/Sirius6907/S-LiveChat
+
+### 🔹 S-Ride — Uber Clone
+End-to-end product demonstrating system design and full product workflow.  
+- Repo: https://github.com/Sirius6907/S-Ride-Uber-clone
+
+---
+
+## 🔗 Links
+
+- 🌐 Portfolio: https://sirius-portfolio.onrender.com/
+- 💼 LinkedIn: https://www.linkedin.com/in/chandan-kumar-behera-sirius
+- 📄 Resume: <ADD-YOUR-RESUME-LINK-HERE>
+- 📧 Email: <ADD-YOUR-CONTACT-EMAIL-HERE>
+
+---
+
+## 🎯 Open to Roles
+
+I’m currently open to:
+
+- Full-Stack Developer (Intern / Entry-Level)
+- Frontend Developer (React / Next.js)
+- Backend Developer (Node.js)
+
+If you're hiring, the fastest way to reach me is via **LinkedIn** or **email**.
+
+---
+
