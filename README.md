@@ -63,8 +63,8 @@ End-to-end product demonstrating system design and full product workflow.
 
 - 🌐 Portfolio: https://sirius-portfolio.onrender.com/
 - 💼 LinkedIn: https://www.linkedin.com/in/chandan-kumar-behera-sirius
-- 📄 Resume: <ADD-YOUR-RESUME-LINK-HERE>
-- 📧 Email: <ADD-YOUR-CONTACT-EMAIL-HERE>
+- 📄 Resume: https://drive.google.com/file/d/1wsdVlSaqOUpeKV_HUalFLc_JNplBhwQu/view?usp=sharing
+- 📧 Email: kumarchandan12345a@gmail.com
 
 ---
 
@@ -79,4 +79,5 @@ I’m currently open to:
 If you're hiring, the fastest way to reach me is via **LinkedIn** or **email**.
 
 ---
+
 
