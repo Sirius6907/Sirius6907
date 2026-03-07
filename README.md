@@ -1,83 +1,62 @@
-# Hi, I'm Chandan Kumar Behera (Sirius6907) 👋
+# Chandan Kumar Behera | Chief Problem Solver 👋
 
-🚀 Full-Stack Developer building modern web apps and AI-powered products.  
-I focus on clean UX, scalable backend architecture, and cloud-ready deployments using AWS.  
-Currently open to **Internships** and **Entry-Level Full-Stack roles**.
-
----
-
-## 💻 Core Skills & Tech Stack
-
-**Frontend**
-- React, Next.js, TypeScript, Tailwind CSS
-
-**Backend**
-- Node.js, Express, REST APIs
-- API architecture & scalable backend patterns (learning/testing best practices)
-
-**Databases**
-- MongoDB
-- SQL (fundamentals)
-
-**Cloud / DevOps**
-- AWS (fundamentals)
-- Docker (basics)
-- Git & GitHub workflows
-
-**AI / ML**
-- Python, Jupyter
-- Integrating AI features into real-world web products
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sirius6907/Portfolio/main/public/images/logo.svg" alt="Sirius Logo" width="150">
+  <h1>Full-Stack Developer | SAP ABAP | AWS | AI Enthusiast</h1>
+  <p><i>"Crafting intelligent digital experiences at the intersection of web, cloud, and AI."</i></p>
+  
+  <a href="https://sirius-portfolio.onrender.com/"><b>🌐 Portfolio</b></a> •
+  <a href="https://linkedin.com/in/chandan-kumar-behera-sirius"><b>💼 LinkedIn</b></a> •
+  <a href="mailto:kumarchandan12345a@gmail.com"><b>📧 Email</b></a>
+</div>
 
 ---
 
-## 🌟 Featured Projects & Impact
-
-### 🔹 Portfolio — Recruiter Landing Page
-Modern personal portfolio showcasing projects and technical capabilities.  
-- Repo: https://github.com/Sirius6907/Portfolio  
-- Live: https://sirius-portfolio.onrender.com/
-
-### 🔹 AI Video Effects Analyzer
-AI-assisted workflow for analyzing and managing video effects (After Effects focused).  
-- Repo: https://github.com/Sirius6907/ai-video-effects-analyzer
-
-### 🔹 Syrex — AI App/Website Builder
-Full-stack AI product focused on automation and intelligent app generation.  
-- Repo: https://github.com/Sirius6907/Syrex
-
-### 🔹 Soniq — AI Music Generator
-Creative AI project built using Python & Jupyter notebooks.  
-- Repo: https://github.com/Sirius6907/Soniq-AI-Music-Generator
-
-### 🔹 S-LiveChat — Real-Time Chat App
-Full-stack real-time communication platform.  
-- Repo: https://github.com/Sirius6907/S-LiveChat
-
-### 🔹 S-Ride — Uber Clone
-End-to-end product demonstrating system design and full product workflow.  
-- Repo: https://github.com/Sirius6907/S-Ride-Uber-clone
+### 🚀 About Me
+I'm a student developer passionate about building intuitive web apps, experimenting with AI tools, and turning random late-night ideas into real, usable projects. From **Next.js** and **Sass** to **SAP ABAP Cloud** and **AWS**, I enjoy mastering new technologies that make the web feel smooth and smart.
 
 ---
 
-## 🔗 Links
+### 🛠️ Technical Arsenal
 
-- 🌐 Portfolio: https://sirius-portfolio.onrender.com/
-- 💼 LinkedIn: https://www.linkedin.com/in/chandan-kumar-behera-sirius
-- 📄 Resume: https://drive.google.com/file/d/1wsdVlSaqOUpeKV_HUalFLc_JNplBhwQu/view?usp=sharing
-- 📧 Email: kumarchandan12345a@gmail.com
-
----
-
-## 🎯 Open to Roles
-
-I’m currently open to:
-
-- Full-Stack Developer (Intern / Entry-Level)
-- Frontend Developer (React / Next.js)
-- Backend Developer (Node.js)
-
-If you're hiring, the fastest way to reach me is via **LinkedIn** or **email**.
+| Category | Skills |
+|----------|--------|
+| **Frontend** | React, Next.js 15, TypeScript, Tailwind CSS, GSAP, Framer Motion |
+| **Backend** | Node.js, Express, REST APIs, SAP ABAP Cloud |
+| **Cloud/DevOps** | AWS (Rekognition, Lambda, S3), Docker, Git, CI/CD |
+| **AI/ML** | OpenAI API Integration, Python, Jupyter, Computer Vision |
+| **UX/UI** | Dark Luxury Aesthetics, Glassmorphism, Responsive Motion Design |
 
 ---
 
+### ✨ Featured Repositories
 
+#### [🚀 Modern Portfolio 2025](https://github.com/Sirius6907/sirius-portfolio-new-1)
+The ultimate digital showcase built with Next.js, GSAP 3D sections, and Lenis smooth scroll.
+*Next.js • GSAP • TypeScript • SCSS*
+
+#### [🤖 MeetAI Platform](https://github.com/Sirius6907/meetai1)
+An intelligent meeting platform leveraging AI for productivity.
+*Next.js 15 • Drizzle ORM • Shadcn/ui*
+
+#### [🖼️ AWS Face Recognition](https://github.com/Sirius6907/face_recognitaion_aws)
+Cloud-native face recognition system using AWS Rekognition and Lambda.
+*Python • Flask • AWS • Boto3*
+
+#### [✂️ Snippy Code Manager](https://github.com/Sirius6907/Snippy)
+Full-stack snippet library with syntax highlighting and secure storage.
+*MERN Stack • Material UI • Prismjs*
+
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sirius6907&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirius6907&layout=compact&theme=tokyonight" alt="Top Languages">
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by Chandan Kumar Behera</sub>
+</div>
