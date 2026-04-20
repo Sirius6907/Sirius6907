@@ -1,6 +1,6 @@
 # 👑 Sirius | Chandan Kumar Behera
 
-### **AI Architect: Autonomous Systems & Multi-Agent Orchestration **
+### AI Architect: Autonomous Systems & Multi-Agent Orchestration **
 *“Bridging high-performance AI control planes with mission-critical enterprise infrastructure.”*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chandan-kumar-behera-sirius/)
