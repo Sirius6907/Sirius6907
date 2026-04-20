@@ -25,7 +25,7 @@ My focus is on building deterministic, type-safe AI control planes that replace 
 
 ---
 
-## 💎 Engineering Flagships (Click to View Technical Deep Dives)
+## 💎 Engineering Flagships 
 
 ### 1. [Siriusly](https://github.com/Sirius6907/Siriusly-multi-agent) • *Masterpiece Control Plane*
 > **Orchestrating Zero-Human Operations.** 
